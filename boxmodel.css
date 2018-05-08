@@ -1,0 +1,43 @@
+/*
+* Programmer Name
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* { margin: 0;
+	padding: 0;
+
+}
+
+/* Put body attributes here */
+
+body { 
+	border: solid black;
+	padding: 15px;
+
+}
+
+p {
+	border: 2px dashed black;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+h1 {
+	border: 2px dashed black;
+	padding: 10px;
+	margin: 10px
+
+}
+
+html {
+	border: 2px dashed black;
+	padding: 15px;
+
+}
+
+
